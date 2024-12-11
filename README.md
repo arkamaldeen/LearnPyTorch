@@ -10,8 +10,8 @@ A private repository to learn and track progress with PyTorch. Includes notes, h
 
 ```
 ├── notebooks/
-│   ├── 00_pytorch_fundamentals.ipynb          # Exploring tensors and fundamental PyTorch operations.
-└── README.md                                  # Project README
+│   ├── 00_pytorch_fundamentals.ipynb      # Exploring tensors and fundamental PyTorch operations.
+└── README.md                              # Project README
 ```
 
 ## Resources
